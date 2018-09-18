@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Antonio Cambronero
+name: Manuel Ramírez
 
 # Short bio or description (displayed in the header)
-description: Informático, blogger y profesor.
+description: Acercando el mundo analógico al digital
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/YO-70x70.png
+avatar: https://avatars2.githubusercontent.com/u/43366029?s=400&u=649273b18a3ebc24c84529feccf7069ace4cfbe4&v=4
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: /images/YO-70x70.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
-  facebook: 
+  email: info@rami.es
+  facebook: ubrique
   flickr:
   github: 
-  instagram: blogpocket
+  instagram: ubrique
   linkedin:
-  pinterest:
+  pinterest: ubrique
   rss: # just type anything here for a working RSS icon
-  twitter: blogpocket
+  twitter: ubrique
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: user/blogpocket
+  youtube: user/ubrique
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
